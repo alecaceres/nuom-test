@@ -3,7 +3,7 @@
 Logo" /></a>
 </p>
 
-# Nuom's Junior Fullstack Test 
+# Nuom's Fullstack Test 
 
 If you are reading this, it's probably because you are thinking of joining our engineering team at [nuom](https://nuom.co.uk). With this test, we will assess:
 
